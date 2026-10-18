@@ -1,0 +1,22 @@
+{
+  "wheel_id": 411,
+  "structure": "umbrella",
+  "slug": "bestwebsitecreation-com-104",
+  "project": "web-design-australia-cost-guide-4d139a752e8ba86eabd4a12c841db85",
+  "parent_t1_ref": "bestwebsitecreation-com-151",
+  "node_role": "feeder",
+  "money_target": "bestwebsitecreation.com.au",
+  "primary_kw": "web design australia cost guide",
+  "intended_url": "http://web-design-australia-cost-guide-4d139a752e8ba86eabd4a12c841db85.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "e6eaf37bbf2b040b",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/web-design-australia-a58483b12d95f62270d607c9abdfd0cdaa55d344/",
+      "anchor": "https://sites-e470-2.web.app/web-design-australia-a58483b12d95f62270d607c9abdfd0cdaa55d344/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
